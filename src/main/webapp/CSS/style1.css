@@ -1,0 +1,28 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    /* background-color: yellow; */
+}
+.container table h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.container table{
+    text-align: center;
+}
+.container table,th,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+.container table,tr,td, a{
+    text-decoration: none;
+}
+.edit{
+	margin: 5px;
+	padding: 5px;
+	
+}
