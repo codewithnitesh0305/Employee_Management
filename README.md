@@ -3,9 +3,7 @@ The Employee Management system serves as a centralized platform for managing emp
 Technology Stack:
 
 Front-end: JSP for dynamic web page generation.
-
 Back-end: Servlets for handling HTTP requests, JDBC for database connectivity.
-
 Database: MySQL for storing employee records and related information.
 
 1. Add Employee:-
